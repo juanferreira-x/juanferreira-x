@@ -7,7 +7,7 @@ Sou **desenvolvedor backend**, com foco em **PHP e Laravel**, atuando principalm
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:estudosdojuanferreira@gmail.com?subject=Contato%20GitHub">
+  <a href="https://mail.google.com/mail/?view=cm&to=estudosdojuanferreira@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
