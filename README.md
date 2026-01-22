@@ -3,12 +3,14 @@
 Sou **desenvolvedor backend**, com foco em **PHP e Laravel**, atuando principalmente em **projetos em equipe**, voltados para soluções reais de software.
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/juan-ferreira-875010314/details/skills/)" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-ferreira-875010314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:estudosdojuanferreira@gmail.com">
+
+  <a href="mailto:estudosdojuanferreira@gmail.com?subject=Contato%20GitHub">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.instagram.com/juanx_dev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram%20-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -36,7 +38,7 @@ Atuo há pouco mais de **1 ano na programação**, sempre trabalhando de forma c
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
 </p>
@@ -102,5 +104,5 @@ Minha atuação principal inclui:
 
 
 <p align="center">
-  <img src="https://github.com/juanferreira-x/juanferreira-x/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/juanferreira-x/juanferreira-x/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
