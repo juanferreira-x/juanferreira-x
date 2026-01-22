@@ -3,20 +3,20 @@
 Sou **desenvolvedor backend**, com foco em **PHP e Laravel**, atuando principalmente em **projetos em equipe**, voltados para soluções reais de software.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="[https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/juan-ferreira-875010314/details/skills/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:estudosdojuanferreira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/atlvs.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram%20ATLVS-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/juanx_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram%20-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 🎓 Estudante de **Engenharia de Software** – Estácio  
 🎓 Técnico em **Tecnologia da Informação** concluído  
-🏢 **Membro da ATLVS**, empresa de desenvolvimento de software em fase de estruturação  
+🏢 **Membro da <a href="https://www.instagram.com/atlvs.dev" target="_blank">ATLVS**</a>, empresa de desenvolvimento de software em fase de estruturação  
 
 Atuo há pouco mais de **1 ano na programação**, sempre trabalhando de forma colaborativa com outros desenvolvedores.
 
@@ -98,97 +98,9 @@ Minha atuação principal inclui:
 *(Novos projetos em constante desenvolvimento 🚧)*
 
 ---
-
-## 📫 Contato
-- 💼 LinkedIn: *(Juan Ferreira)*
-- 📧 Email: *(estudosdojuanferreira@gmail.com)*
-
----
 ⭐ Fique à vontade para explorar os repositórios e acompanhar minha evolução!
 
-------------------------------------------------------------------------------
-
-🇺🇸 **English version below**
-
-# 👋 Hi, I'm Juan
-
-I'm a **backend developer** focused on **PHP and Laravel**, mainly working on **team-based projects** aimed at real-world software solutions.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:estudosdojuanferreira@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/atlvs.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram%20ATLVS-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-🎓 Software Engineering student at **Estácio**  
-🎓 Technical degree in **Information Technology**  
-🏢 **Member of ATLVS**, a software development company currently under construction  
-
-I have been working with programming for a little over **1 year**, always collaborating with other developers.
-
----
-
-## 🚀 About me
-- **Back-end Developer**
-- Hands-on experience in **team-developed projects**
-- Work on real systems, focusing on **business rules, APIs, and databases**
-- Member of **ATLVS**, a company focused on building web-based solutions
-
----
-
-## 🛠️ Technologies & Skills
-
-### 🔹 Languages
-PHP · Python · Java · JavaScript · C (basic)
-
-### 🔹 Back-end
-Laravel · REST APIs · MVC Architecture
-
-### 🔹 Databases
-MySQL · PostgreSQL
-
-### 🔹 Front-end
-HTML · CSS · Tailwind CSS
-
-### 🔹 Other skills
-- Basic data analysis with **Python**
-- Git & GitHub
-- Teamwork and collaborative version control
-
----
-
-## 👥 Project experience
-All projects I currently work on are developed **in collaboration with a team of 3 developers**, colleagues with whom I completed my technical IT course.
-
-These projects are developed within the context of **ATLVS**, a software development company focused on web-based solutions.
-
-My main responsibilities include:
-- **Backend development with Laravel**
-- Design and integration of **relational databases**
-- Implementation of **business rules**
-- Active participation in **technical and architectural decisions**
-
----
-
-## 📌 Featured projects
-- 🔹 **Árvores de Paracambi** – Web system developed by **ATLVS** for the **Paracambi-RJ Department of Environment and Climate**, focused on tree mapping and environmental service requests.
-
-🔒 Private repository (institutional project)
-
----
-
-## 📫 Contact
-- 💼 LinkedIn: *(Juan Ferreira)*
-- 📧 Email: *(estudosdojuanferreira@gmail.com)*
-
----
 
 <p align="center">
-  <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/juanferreira-x/juanferreira-x/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
