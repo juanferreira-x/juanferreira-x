@@ -28,7 +28,7 @@ Atuo há pouco mais de **1 ano na programação**, sempre trabalhando de forma c
 ---
 
 ## 🚀 Sobre mim
-- Desenvolvedor **Back-end**
+- Desenvolvedor **FullStack**
 - Experiência prática em projetos desenvolvidos **em equipe**
 - Atuação em sistemas reais, com foco em **regras de negócio, APIs e bancos de dados**
 - Membro da **ATLVS**, empresa de tecnologia focada em soluções web sob demanda
