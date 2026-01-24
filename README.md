@@ -1,3 +1,6 @@
+
+<img src="img/banner_atlvs.jpg" alt="Banner"/>
+
 # 👋 Olá, eu sou Juan
 
 Sou **desenvolvedor fullstack**, com foco em **PHP e Laravel**, atuando principalmente em **projetos em equipe**, voltados para soluções reais de software.
