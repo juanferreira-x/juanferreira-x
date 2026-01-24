@@ -21,7 +21,7 @@ Sou **desenvolvedor fullstack**, com foco em **PHP e Laravel**, atuando principa
 
 🎓 Estudante de **Engenharia de Software** – Estácio  
 🎓 Técnico em **Tecnologia da Informação** concluído  
-🏢 **Membro da <a href="https://www.instagram.com/atlvs.dev" target="_blank">ATLVS**</a>, empresa de desenvolvimento de software em fase de estruturação  
+🏢 **Colaborador da <a href="https://www.instagram.com/atlvs.dev" target="_blank">ATLVS**</a>, empresa de desenvolvimento de software em fase de estruturação  
 
 Atuo há pouco mais de **1 ano na programação**, sempre trabalhando de forma colaborativa com outros desenvolvedores.
 
