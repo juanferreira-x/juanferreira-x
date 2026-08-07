@@ -1,6 +1,3 @@
-
-<img src="img/banner_atlvs.jpg" alt="Banner"/>
-
 # 👋 Olá, eu sou Juan
 
 Sou **desenvolvedor backend**, com experiência em **PHP Laravel**, mas atualmente om foco em **Java**, atuando principalmente em **projetos em equipe**, voltados para soluções reais de software.
