@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou Juan
 
-Sou **desenvolvedor fullstack**, com foco em **PHP e Laravel**, atuando principalmente em **projetos em equipe**, voltados para soluções reais de software.
+Sou **desenvolvedor backend**, com experiência em **PHP Laravel**, mas atualmente om foco em **Java**, atuando principalmente em **projetos em equipe**, voltados para soluções reais de software.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/juan-ferreira-875010314/" target="_blank">
@@ -21,17 +21,15 @@ Sou **desenvolvedor fullstack**, com foco em **PHP e Laravel**, atuando principa
 
 🎓 Estudante de **Engenharia de Software** – Estácio  
 🎓 Técnico em **Tecnologia da Informação** concluído  
-🏢 **Colaborador da <a href="https://www.instagram.com/atlvs.dev" target="_blank">ATLVS**</a>, empresa de desenvolvimento de software em fase de estruturação  
 
 Atuo há pouco mais de **1 ano na programação**, sempre trabalhando de forma colaborativa com outros desenvolvedores.
 
 ---
 
 ## 🚀 Sobre mim
-- Desenvolvedor **FullStack**
+- Desenvolvedor **BackEnd**
 - Experiência prática em projetos desenvolvidos **em equipe**
 - Atuação em sistemas reais, com foco em **regras de negócio, APIs e bancos de dados**
-- Membro da **ATLVS**, empresa de tecnologia focada em soluções web sob demanda
 
 ---
 
@@ -70,19 +68,6 @@ Atuo há pouco mais de **1 ano na programação**, sempre trabalhando de forma c
 - Análise de dados básica com **Python**
 - Git & GitHub
 - Trabalho em equipe e versionamento colaborativo
-
----
-
-## 👥 Experiência em projetos
-Atualmente, todos os projetos dos quais participo são desenvolvidos **em conjunto com uma equipe de 3 desenvolvedores**, colegas com quem concluí o curso técnico em TI.
-
-Esses projetos são realizados no contexto da **ATLVS**, uma empresa de desenvolvimento de software em fase de estruturação, focada em soluções web.
-
-Minha atuação principal inclui:
-- Desenvolvimento **backend com Laravel**
-- Modelagem e integração com **bancos de dados relacionais**
-- Implementação de **regras de negócio**
-- Participação ativa em **decisões técnicas e arquiteturais**
 
 ---
 
