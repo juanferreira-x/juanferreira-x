@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Juan
 
-Sou **desenvolvedor backend**, com experiência em **PHP Laravel**, mas atualmente om foco em **Java**, atuando principalmente em **projetos em equipe**, voltados para soluções reais de software.
+Sou **desenvolvedor backend**, com experiência em **PHP Laravel**, mas atualmente com foco em **Java**, atuando principalmente em **projetos em equipe**, voltados para soluções reais de software.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/juan-ferreira-875010314/" target="_blank">
