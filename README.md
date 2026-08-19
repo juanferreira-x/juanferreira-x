@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Juan
 
-Sou **desenvolvedor fullstack**, mas com mais experiência em **backend**. Tenho experiência com **PHP Laravel**, mas atualmente com foco em **Java**, atuando principalmente em **projetos em equipe**, voltados para soluções reais de software.
+Sou **desenvolvedor fullstack**, porém com mais experiência em **backend**. Tenho experiência com **PHP Laravel**, mas atualmente com foco em **Java**, atuando principalmente em **projetos em equipe**, voltados para soluções reais de software.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/juan-ferreira-875010314/" target="_blank">
